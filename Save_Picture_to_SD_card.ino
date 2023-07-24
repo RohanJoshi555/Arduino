@@ -1,5 +1,5 @@
 //Author: Rohan Joshi
-//Project: Using ESP 32 cam to Click a series of Pictures at regular(customizable) intervals and save them in an SD card
+//Project: Using ESP 32 Cam to Click a series of Pictures at regular(customizable) intervals and save them in an SD card
 
 #include "esp_camera.h"        // Camera
 #include "Arduino.h"           // General Functionality
